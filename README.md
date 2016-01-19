@@ -1,4 +1,3 @@
-[![Beerpay](http://test.beerpay.io/colkito/angularjs-i18n/badge.svg?style=flat-square)](http://test.beerpay.io/colkito/angularjs-i18n)
 This module has been created by merging the work of 2 developers. See bottom of the page for credits.
 
 **Dependencies**
