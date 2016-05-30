@@ -1,5 +1,3 @@
-[![Beerpay](http://test.beerpay.io/colkito/angularjs-i18n/badge.svg?style=flat-square)](http://test.beerpay.io/colkito/angularjs-i18n)
-[![Beerpay](http://test.beerpay.io/colkito/angularjs-i18n/badge.svg?style=flat-square)](http://test.beerpay.io/colkito/angularjs-i18n)
 This module has been created by merging the work of 2 developers. See bottom of the page for credits.
 
 **Dependencies**
@@ -52,7 +50,3 @@ The fr-FR.json file looks like this
 **Credits**
 * Jenu : marco.mich...@gmail.com from https://groups.google.com/forum/#!msg/angular/9C1F6PJ5KVY/7jSZTKXRCokJ 
 * Jim Lavin : http://codingsmackdown.tv/blog/2012/12/14/localizing-your-angularjs-app/
-
-## Support
-Hey dude! Let me go out for a couple of :beers:!
-[![Beerpay](https://beerpay.io/colkito/angularjs-i18n/badge.svg?style=beer-square)](https://beerpay.io/colkito/angularjs-i18n)
