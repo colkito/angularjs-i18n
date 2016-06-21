@@ -50,8 +50,3 @@ The fr-FR.json file looks like this
 **Credits**
 * Jenu : marco.mich...@gmail.com from https://groups.google.com/forum/#!msg/angular/9C1F6PJ5KVY/7jSZTKXRCokJ 
 * Jim Lavin : http://codingsmackdown.tv/blog/2012/12/14/localizing-your-angularjs-app/
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/colkito/angularjs-i18n/badge.svg?style=beer-square)](https://beerpay.io/colkito/angularjs-i18n)  [![Beerpay](https://beerpay.io/img/badges/make-wish-square.svg)](https://beerpay.io/colkito/angularjs-i18n?focus=wish)
